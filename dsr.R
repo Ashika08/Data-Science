@@ -125,3 +125,4 @@ totalcount<-(count1/count2)*100
 sprintf("The percentage of people suffering from Alzheimer's is %f percent.",totalcount)
 
 
+----
